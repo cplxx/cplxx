@@ -23,3 +23,6 @@
 ## Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cplx/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yancastrohenrique1@gmail.com)
+
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31dfxdcjagjhhjqin7izjjcxz4bu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31dfxdcjagjhhjqin7izjjcxz4bu&cover_image=true&theme=karaoke&show_offline=true&background_color=121212&interchange=true)]]
