@@ -24,6 +24,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cplx/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yancastrohenrique1@gmail.com)
 
-##Status
+## Status
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dfxdcjagjhhjqin7izjjcxz4bu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31dfxdcjagjhhjqin7izjjcxz4bu&redirect=true)
