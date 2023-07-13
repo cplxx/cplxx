@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, eu sou o Yan! </h1>
 
 
-- Estudando na Onebitcode;
+- Cursando analise e desenvolvimento de sistemas
 - Sou apaixonado por tecnologia.
 
 
